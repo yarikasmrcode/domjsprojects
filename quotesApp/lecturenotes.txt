@@ -1,0 +1,21 @@
+DOM : 
+
+- with DOM, js can access and change all the elements of an HTML doc
+- Document Object Model is created when web page is loaded
+
+
+DOM methods :
+
+- getElementById() : access by using ID of the element
+- innerHTML() : 
+- document.createElement(), removeChild(),appendChild(),replaceChild(),write(text) : adding and deleteing
+  elements
+- element.innerHTML, attribute,setAttribute(attribute,value), style.property = 
+
+EVENTS:
+
+- DOM allows to execute code when an event occurs
+- event is generated when something happens :
+- mouse click, loading web page, loading image, mouse moves over smth, input is changed,
+  HTML form is submitted etc
+
